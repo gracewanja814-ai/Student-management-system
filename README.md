@@ -1,2 +1,2 @@
 # Student-management-system
-student management system built witrh HTML,CSS and JavaScript
+student management system built with HTML,CSS and JavaScript
